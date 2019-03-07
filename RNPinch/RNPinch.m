@@ -7,7 +7,7 @@
 //
 
 #import "RNPinch.h"
-#import "RCTBridge.h"
+// #import "RCTBridge.h"
 
 @interface RNPinchException : NSException
 @end
